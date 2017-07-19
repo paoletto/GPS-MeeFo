@@ -1,0 +1,10 @@
+ 
+Initial attempt to port GPS MeeFo to Qt5
+
+Missing:
+- proper dark theming
+- proper icons (should be all in git)
+- proper toolbar/toolbar handling
+- fixing the flickable (not flicking atm)
+- Map view (do not use a WebView, use QtLocation Map)
+- Enable Kompass and show it, like in the later 1.6.1 version (not available, sadly)

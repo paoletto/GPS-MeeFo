@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">qml/main.qml</file>
+        <file alias="InfoPage.qml">qml/InfoPage.qml</file>
+        <file alias="MainPage.qml">qml/MainPage.qml</file>
+        <file alias="SplashPage.qml">qml/SplashPage.qml</file>
+        <file alias="UIConstants.js">qml/UIConstants.js</file>
+    </qresource>
+    <qresource prefix="/">
+        <file alias="back.png">assets/back.png</file>
+        <file alias="backW.png">assets/backW.png</file>
+        <file alias="gpsmeefo64.png">assets/gpsmeefo64.png</file>
+        <file alias="gpsmeefo80.png">assets/gpsmeefo80.png</file>
+        <file alias="gpsradar.png">assets/gpsradar.png</file>
+        <file alias="gpsradarW.png">assets/gpsradarW.png</file>
+        <file alias="info.png">assets/info.png</file>
+        <file alias="infoW.png">assets/infoW.png</file>
+        <file alias="meego_gpsinfoqt.png">assets/meego_gpsinfoqt.png</file>
+        <file alias="refresh.png">assets/refresh.png</file>
+        <file alias="refreshW.png">assets/refreshW.png</file>
+        <file alias="share.png">assets/share.png</file>
+        <file alias="shareW.png">assets/shareW.png</file>
+    </qresource>
+</RCC>
